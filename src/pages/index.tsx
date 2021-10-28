@@ -18,7 +18,7 @@ export default function Home() {
                 <Card
                     title="Discord"
                     description="Our community with free and open guides!"
-                    href="https://discord.gg/rfuypDgZV6"
+                    href="https://discord.gg/CTT"
                     color="bg-socials-discord"
 
                 />
